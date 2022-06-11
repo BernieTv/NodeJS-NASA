@@ -1,0 +1,24 @@
+6q4o7ECRBMVSrSA4 
+
+// launches.set(launch.flightNumber, launch);
+
+
+// function addNewLaunch(launch) {
+// 	latestFlightNumber++;
+// 	launches.set(
+// 		latestFlightNumber,
+// 		Object.assign(launch, {
+// 			success: true,
+// 			upcoming: true,
+// 			customers: ['Zero to Mastery', 'NASA'],
+// 			flightNumber: latestFlightNumber,
+// 		})
+// 	);
+// }
+
+// const aborted = launches.get(launchId);
+	// aborted.upcoming = false;
+	// aborted.success = false;
+	// return aborted;
+
+
